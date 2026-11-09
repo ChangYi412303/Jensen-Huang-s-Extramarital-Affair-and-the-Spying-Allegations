@@ -22,6 +22,7 @@
 清醒覺察：看透現實本質，不隨群體盲目起舞，珍視並行使手中每一張選票。
 
 三、 中文完整正文版 (Full Chinese Text)
+
 序言：赤裸的現實對撞
 這是一場赤裸的現實對撞：當全球頂級資本巨頭站在權力與輿論的風口浪尖時，普通老百姓卻在每日被規訓、被剝削、被合法化的體制漏洞中艱難求生。
 
@@ -101,7 +102,9 @@
 ———
 
 四、 英文完整對應版 (Full English Translation)
+
 Jensen Huang's Extramarital Affair and the Spying Allegations
+
 A Raw Collision of Reality: From Silicon Valley Titans to the Cold Survival of Ordinary People
 
 Nvidia CEO Jensen Huang publicly admitted to having an extramarital affair and apologized to his family and employees. The controversy erupted after reports surfaced linking him to a woman whom U.S. intelligence suspects may be a Chinese intelligence operative.
